@@ -8,7 +8,7 @@ Clone the repo,
 
 	git clone https://github.com/OKNoah/responsive_example
 
-You need Bower to install the dependencies. To install Bower, first install node.js and npm (indluced in node.js) from http://nodejs.org, then do,
+You need Bower to install the dependencies. To install Bower, first install node.js and npm (included in node.js) from http://nodejs.org, then do,
 
 	npm install -g bower
 
