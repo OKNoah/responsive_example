@@ -1,0 +1,20 @@
+#camp_registration { 
+	#camp_roles { min-height: 100pt; }
+	#camp_form { min-height: 100pt; background-image: linear-gradient(#F2F2F2 , #C7C7C7); padding: 20px; } }
+
+@media screen and (max-width: 767px ) {
+	#camp_registration { 
+		#camp_roles { padding: 0px; margin: 10px 0; } }
+}
+
+.form-control { height: 53px; background-color: #B8B8B8; color: #fff; box-shadow: none; font-size: 19px;
+	&::-webkit-input-placeholder { color: #fff; font-size: 19px; font-weight: 500; line-height: 25px; }
+	&:focus { background-color: #979797; border: none; box-shadow: none; } }
+
+label { margin: 0; padding: 0 !important;
+	.camp-role-radio { display:none; 
+		&:checked + div { background-image: linear-gradient( #6BCEE3, #70EDE1); } } 
+	div { width: 100%; border-radius: 4px; padding: 5px 0; line-height: 0px; margin: 0; } }
+
+.btn-default { height: 40pt; min-width: 100pt; background-image: linear-gradient(#8CC278, #77C379); border: none; box-shadow: none; color: #fff; font-size: 20px; line-height: 20px; box-shadow: none;
+	&:hover { background-color: #77C379; background-position: 0 -100px; color: #fff; font-size: 20px; line-height: 20px; box-shadow: none; } }

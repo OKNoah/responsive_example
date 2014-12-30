@@ -1,0 +1,29 @@
+{
+  "name": "Responsive Design Example",
+  "version": "0.0.0",
+  "authors": [
+    "noah <noahgray@me.com>"
+  ],
+  "description": "Example of a responsive webpage with CSS/HTML, Bootstrap and Sass.",
+  "main": "index.html",
+  "keywords": [
+    "css",
+    "responsive",
+    "html",
+    "sass",
+    "bootstrap"
+  ],
+  "license": "none, copyright",
+  "homepage": "http://noahjobsgray.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bourbon": "~4.0.2"
+  }
+}
