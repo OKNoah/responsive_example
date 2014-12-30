@@ -2,7 +2,7 @@
 
 An exmaple of how to make a responsive website in Bootstrap 3 and Sass. Features two-column layout and forms.
 
-# Installtion
+# Installation
 
 Clone the repo,
 
